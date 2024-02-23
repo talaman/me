@@ -1,0 +1,165 @@
+{
+  "name": "Daniel Antonio Tala de Dompierre de Chaufepie",
+  "title": "BSE CS, ML Ops Engineer",
+  "age": 36,
+  "location": "Copenhagen",
+  "contact": {
+    "phone": "+4552755971",
+    "email": "daniel.talaman@gmail.com",
+    "website": "talaman.info"
+  },
+  "personal_statement": "As a software and machine learning engineer with 14 years of experience, I specialize in MLOps and designing scalable solutions. With a passion for problem-solving, I'm dedicated to overcoming technical challenges and ensuring smooth production. As an adventurer with a global perspective, I've lived in six countries and traveled to 35, gaining valuable insights and a unique appreciation for diverse cultures.",
+  "skills_and_experience": "Experienced in ML Ops engineering, AI, software development, and project management, with a Bachelor's degree in Computer Science and Engineering, an MBA, and various certifications in Machine Learning, DevOps, and IoT. Fluent in English and Spanish with a basic understanding of Danish. Worked as an MLOps Engineer for TDC Net in Denmark and as an AI Specialist for Republica. Also served as a Senior Software Engineer for Kairos in Chile and a Principal Consultant in Software Factory for Talaman.",
+  "personal_interests": "Passionate about family, nature, and animals. Committed to lifelong learning, social responsibility, and embracing a global mindset. Enjoys traveling, hiking, electric longboarding, and 3D printing.",
+  "education": [
+    {
+      "degree": "MLOps",
+      "institution": "DeepLearning.AI",
+      "year": 2022
+    },
+    {
+      "degree": "Machine Learning",
+      "institution": "MITx",
+      "year": 2021
+    },
+    {
+      "degree": "DevOps",
+      "institution": "The Linux Foundation",
+      "year": 2017
+    },
+    {
+      "degree": "Internet of Things",
+      "institution": "MITx",
+      "year": 2017
+    },
+    {
+      "degree": "AWS Developer",
+      "institution": "AWS",
+      "year": 2018
+    },
+    {
+      "degree": "PGD Business Intelligence",
+      "institution": "IEDE Business School",
+      "year": 2014
+    },
+    {
+      "degree": "MBA",
+      "institution": "IEDE Business School",
+      "year": 2017
+    },
+    {
+      "degree": "Bachelor of Computer Science and Engineering",
+      "institution": "Aiep UNAB",
+      "year": 2014
+    },
+    {
+      "degree": "PGD Executive Management",
+      "institution": "Universidad N. Andrés Bello",
+      "year": 2016
+    },
+    {
+      "degree": "Project Management",
+      "institution": "University of California, Riverside Extension",
+      "year": 2016
+    },
+    {
+      "degree": "English Language (Academic)",
+      "institution": "NZ Unitec Institute of Technology",
+      "year": 2018
+    },
+    {
+      "degree": "English Language",
+      "institution": "Kaplan Oxford",
+      "year": 2014
+    },
+    {
+      "degree": "Danish Language 3.2",
+      "institution": "UCPlus",
+      "year": 2021
+    },
+    {
+      "degree": "Technician in Computer Science",
+      "institution": "Universidad ICEL, Mexico",
+      "year": 2009
+    }
+  ],
+  "work_history": [
+    {
+      "title": "MLOps engineer",
+      "company": "TDC net",
+      "website": "tdcnet.dk",
+      "location": "Denmark",
+      "period": "3/2022-Present",
+      "description": "Developing and implementing ML pipelines, Kubeflow, Kubernetes, MLflow, and MLOps practices for the Advanced Analytics team. Building CI/CD/CT pipelines to streamline deployment. Creating APIs, microservices, and apps to capture and label data. Ensuring the scalability and reliability of data science solutions through robust MLOps methodologies."
+    },
+    {
+      "title": "AI Specialist",
+      "company": "Republica",
+      "website": "republica.dk",
+      "location": "Denmark",
+      "period": "11/2018-3/2022",
+      "description": "Designing AI solutions to automate business processes and architect microservice systems. Developing mechanisms to capture data, train ML models, and perform automation and retraining pipelines. Prototyping and developing full-stack applications, and implementing DevOps with CI/CD and queue systems."
+    },
+    {
+      "title": "Senior Software Engineer",
+      "company": "Kairos",
+      "website": "kairoschile.cl",
+      "location": "Chile",
+      "period": "6/2015-7/2017",
+      "description": "As the lead software architect and advisor, designed strategic plans for product enhancement and achievement."
+    },
+    {
+      "title": "Principal Consultant",
+      "company": "Talaman",
+      "website": "cl.talaman.info",
+      "location": "Chile",
+      "period": "2011-2015",
+      "description": "Customizing techniques and processes to meet customers' requirements and ensure successful implementation. Possessing strong team formation and people management skills. Designing creative solutions for complex technical needs."
+    },
+    {
+      "title": "Analyst Developer",
+      "company": "I2K Consultores",
+      "location": "Chile",
+      "period": "2010-2011",
+      "description": "Scaling multinational systems across diverse technologies and developing using SOA architecture."
+    },
+    {
+      "title": "Computer Technician",
+      "location": "Mexico",
+      "period": "2006-2009",
+      "description": "Assembling computers and providing technical support."
+    }
+  ],
+  "stack_of_interest": "Kubernetes, Kubeflow, MLOps, LLMOps, ML/DL, IoT, Python, React, and using Terraform and YAML for IaC and automation.",
+  "skills": "Kubeflow, MLFlow, Grafana, Docker, Kubernetes, Azure, AWS, Databricks, Snowflake, kfp, TF, PyTorch, JavaScript, Python, React, React Native, C#, SQL, YAML, Terraform and Terragrunt, BI, microservices architecture, and more.",
+  "languages": [
+    {
+      "language": "English",
+      "level": "C2 Proficiency"
+    },
+    {
+      "language": "Spanish",
+      "level": "Native"
+    },
+    {
+      "language": "Danish",
+      "level": "A2"
+    }
+  ],
+  "references": [
+    {
+      "name": "Søren Michael Nielsen",
+      "title": "Senior Engineering Manager",
+      "company": "Maersk",
+      "linkedin": "smnie",
+      "phone": "+45 40 19 35 25"
+    },
+    {
+      "name": "Per M. Butschkow",
+      "title": "IT-udviklingschef",
+      "company": "Københavns Universitet",
+      "linkedin": "butschkow",
+      "phone": "+45 20 11 77 97"
+    }
+  ]
+}
