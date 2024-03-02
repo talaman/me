@@ -3,7 +3,7 @@ import json
 with open('me.json') as f:
     talaman = json.load(f)
 
-def generate_md(data,filepath='README.md'):
+def generate_md(data,filepath):
     with open(filepath, 'w') as f:
         f.write(f"# {data['name']} ({data['alias']})\n")
         f.write(f"{data['title']}\n\n")
@@ -38,5 +38,9 @@ def generate_md(data,filepath='README.md'):
             f.write(f"LinkedIn: {reference['linkedin']}\n")
             f.write(f"Phone: {reference['phone']}\n\n")
 
-generate_md(talaman)
+generate_md(talaman, 'me.md')
 generate_md(talaman, 'me.txt')
+
+import subprocess
+
+subprocess.run(["mdpdf", "-o", "me.pdf", "me.md"])
