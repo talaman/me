@@ -119,6 +119,7 @@
     },
     {
       "title": "Analyst Developer",
+      "website": "",
       "company": "I2K Consultores",
       "location": "Chile",
       "period": "2010-2011",
@@ -126,6 +127,8 @@
     },
     {
       "title": "Computer Technician",
+      "company": "Self-employed",
+      "website": "",
       "location": "Mexico",
       "period": "2006-2009",
       "description": "Assembling computers and providing technical support."
