@@ -5,7 +5,7 @@ BSE CS, ML Ops Engineer
 - Currently based in Copenhagen
 - Phone: [+4552755971](tel:+4552755971)
 - Email: [daniel.talaman@gmail.com](mailto:daniel.talaman@gmail.com)
-- Website: [https://talaman.info](https://https://talaman.info)
+- Website: [https://talaman.info](https://talaman.info)
 
 ## PERSONAL STATEMENT
 

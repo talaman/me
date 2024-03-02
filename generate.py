@@ -11,7 +11,7 @@ def generate_md(data,filepath):
         f.write(f"- Currently based in {data['location']}\n")
         f.write(f"- Phone: [{data['contact']['phone']}](tel:{data['contact']['phone']})\n")
         f.write(f"- Email: [{data['contact']['email']}](mailto:{data['contact']['email']})\n")
-        f.write(f"- Website: [{data['contact']['website']}](https://{data['contact']['website']})\n\n")
+        f.write(f"- Website: [{data['contact']['website']}]({data['contact']['website']})\n\n")
         f.write(f"## PERSONAL STATEMENT\n\n")
         f.write(f"{data['personal_statement']}\n\n")
         f.write(f"## SKILLS AND EXPERIENCE\n\n")
