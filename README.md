@@ -10,7 +10,7 @@ BSE CS, ML Ops Engineer
 
 ## PERSONAL STATEMENT
 
-As a software and machine learning engineer with 14 years of experience, I specialize in MLOps and designing scalable solutions. With a passion for problem-solving, I'm dedicated to overcoming technical challenges and ensuring smooth production. As an adventurer with a global perspective, I've lived in six countries and traveled to 35, gaining valuable insights and a unique appreciation for diverse cultures.
+As a software and machine learning engineer with 15 years of experience, I specialize in MLOps and designing scalable solutions. With a passion for problem-solving, I'm dedicated to overcoming technical challenges and ensuring smooth production. As an adventurer with a global perspective, I've lived in eight countries and traveled to 36, gaining valuable insights and a unique appreciation for diverse cultures.
 
 ## SKILLS AND EXPERIENCE
 
@@ -41,7 +41,7 @@ Passionate about family, nature, and animals. Committed to lifelong learning, so
 
 ### MLOps engineer, TDC net (tdcnet.dk), Denmark. 3/2022-Present
 
-Developing and implementing ML pipelines, Kubeflow, Kubernetes, MLflow, and MLOps practices for the Advanced Analytics team. Building CI/CD/CT pipelines to streamline deployment. Creating APIs, microservices, and apps to capture and label data. Ensuring the scalability and reliability of data science solutions through robust MLOps methodologies.
+Developing and implementing ML pipelines, Kubeflow, Kubernetes, MLflow, Argo, Terraform, and MLOps practices for the Advanced Analytics and AI team. Building CI/CD/CT pipelines to streamline deployment. Creating APIs, microservices, and apps to capture and label data. Ensuring the scalability and reliability of data science solutions through robust MLOps methodologies.
 
 ### AI Specialist, Republica (republica.dk), Denmark. 11/2018-3/2022
 
@@ -65,9 +65,9 @@ Assembling computers and providing technical support.
 
 ## My stack of interest includes
 
-Kubernetes, Kubeflow, MLOps, LLMOps, ML/DL, IoT, Python, React, and using Terraform and YAML for IaC and automation.
+Kubernetes, Kubeflow, BentoML, LangChain, Grafana, Tensorflow, PyTorch, IoT, Python, React Native, and using Terraform and YAML for IaC and automation.
 
-I'm skilled in Kubeflow, MLFlow, Grafana, Docker, Kubernetes, Azure, AWS, Databricks, Snowflake, kfp, TF, PyTorch, JavaScript, Python, React, React Native, C#, SQL, YAML, Terraform and Terragrunt, BI, microservices architecture, and more.
+I'm skilled in DevOps, MLOps and LLMOps, Kubeflow, Kubernetes, Docker, Grafana, Vertex AI, Azure, AWS, Databricks, Snowflake, kfp, MLFlow, Tensorflow, PyTorch, JavaScript, Python, React, React Native, C#, SQL, YAML, Terraform and Terragrunt, BI, microservices architecture, and more.
 
 ## LANGUAGES
 
