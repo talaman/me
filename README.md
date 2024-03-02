@@ -1,3 +1,5 @@
+[![Python application](https://github.com/talaman/me/actions/workflows/python-app.yml/badge.svg)](https://github.com/talaman/me/actions/workflows/python-app.yml)
+
 # Me
 
 - [me.md](me.md)
