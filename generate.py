@@ -5,9 +5,10 @@ with open('me.json') as f:
 
 def generate_md(data,filepath):
     with open(filepath, 'w') as f:
-        f.write(f"# {data['name']} ({data['alias']})\n")
+        f.write(f"![{data['alias']}]({data['photo']})\n\n")
+        f.write(f"# {data['name']} \n")
         f.write(f"{data['title']}\n\n")
-        f.write(f"- {data['age']} years old\n")
+        f.write(f"- {data['age']} years old, {data['nationality']}\n")
         f.write(f"- Currently based in {data['location']}\n")
         f.write(f"- Phone: [{data['contact']['phone']}](tel:{data['contact']['phone']})\n")
         f.write(f"- Email: [{data['contact']['email']}](mailto:{data['contact']['email']})\n")

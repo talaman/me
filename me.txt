@@ -1,7 +1,9 @@
-# Daniel Antonio Tala de Dompierre de Chaufepie (talaman)
+![Talaman](./photo.jpg)
+
+# Daniel Antonio Tala de Dompierre de Chaufepie 
 BSE CS, ML Ops Engineer
 
-- 36 years old
+- 36 years old, Chilean
 - Currently based in Copenhagen
 - Phone: [+4552755971](tel:+4552755971)
 - Email: [daniel.talaman@gmail.com](mailto:daniel.talaman@gmail.com)

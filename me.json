@@ -1,8 +1,10 @@
 {
   "name": "Daniel Antonio Tala de Dompierre de Chaufepie",
-  "alias": "talaman",
+  "alias": "Talaman",
   "title": "BSE CS, ML Ops Engineer",
+  "photo": "./photo.jpg",
   "age": 36,
+  "nationality": "Chilean",
   "location": "Copenhagen",
   "contact": {
     "phone": "+4552755971",
