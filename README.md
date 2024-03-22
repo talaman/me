@@ -1,6 +1,6 @@
 [![Python application](https://github.com/talaman/me/actions/workflows/python-app.yml/badge.svg)](https://github.com/talaman/me/actions/workflows/python-app.yml)
 
-# Daniel Antonio Tala de Dompierre de Chaufepie (Talaman)
+# Daniel Antonio Tala de Dompierre de Chaufepie
 
 Choose your favorite format:
 
