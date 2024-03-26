@@ -8,6 +8,7 @@ BSE CS, ML Ops Engineer
 - Phone: [+4552755971](tel:+4552755971)
 - Email: [daniel.talaman@gmail.com](mailto:daniel.talaman@gmail.com)
 - Website: [https://talaman.info](https://talaman.info)
+- LinkedIn: [https://www.linkedin.com/in/danieltala](https://www.linkedin.com/in/danieltala)
 
 ## PERSONAL STATEMENT
 
